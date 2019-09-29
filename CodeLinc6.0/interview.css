@@ -1,0 +1,13 @@
+﻿body {
+}
+.question{
+    height: 100vh;
+    text-align: center;
+    top:0;
+    left:0;
+    position:fixed;
+    margin:auto;    
+}
+h1 {
+    color: #bbe2f9;
+}

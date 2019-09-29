@@ -1,0 +1,22 @@
+﻿body {
+    
+}
+
+table, th, td {
+    background-color:#a9b8d5;
+    border-color: #120f3b;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    padding: 5px;
+    text-align:center;
+}
+
+table{
+    margin-left:20px;
+    margin-right:20px;
+    width:95%;
+}
+
+th{
+    width:auto;
+}
